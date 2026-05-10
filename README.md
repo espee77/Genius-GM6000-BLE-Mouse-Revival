@@ -4,11 +4,13 @@ This project is an open-source hardware and software conversion for the classic 
 
 <img width="800" alt="Genius-GM6000" src="https://github.com/user-attachments/assets/d0f44eeb-6676-48ad-923f-00c529bbc1b4" />
 
+
 **The goal of this project is simple**
 
 Preserve the original look, mechanics, and feel of a vintage ball mouse while replacing the obsolete electronics with a modern wireless Bluetooth Low Energy (BLE) system. Instead of installing a modern optical sensor, this project keeps the original mechanical ball encoder system intact. The original encoder wheels are reused and read by a newly designed infrared optical detection system based on IR LEDs and phototransistors. A custom PCB built around the *Seeed Studio XIAO nRF52840 Sense* provides wireless BLE HID mouse functionality, LiPo battery support, and modern connectivity.
 
 <img width="800" alt="Genius-GM6000 conversion" src="https://github.com/user-attachments/assets/e20515aa-5458-4d16-acf4-d4d742eae415" />
+
 
 **Project Goals**
 
@@ -18,6 +20,7 @@ Preserve the original look, mechanics, and feel of a vintage ball mouse while re
 - Add wireless BLE connectivity
 - Integrate rechargeable LiPo battery support
 - Fully open-source the hardware and firmware
+
 
 **Features**
 
@@ -64,6 +67,7 @@ _Contributions,suggestions, forks, and improvements are always welcome._
 - PCB designed
 - Prototype PCB ordered
 - Firmware development to be started
+
 
 **Disclaimers**
 
