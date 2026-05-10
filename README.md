@@ -3,8 +3,8 @@
 
 This project is an open-source hardware and software conversion for the classic Genius GM-6000 ball mouse.
 
-<img width="1426" height="605" alt="Genius-GM6000-01" src="https://github.com/user-attachments/assets/d0f44eeb-6676-48ad-923f-00c529bbc1b4" />
-<img width="1422" height="623" alt="Genius-GM6000-02" src="https://github.com/user-attachments/assets/8fc7b173-45ce-4c9c-8a33-6d75d3640d18" />
+<img width="800" alt="Genius-GM6000-01" src="https://github.com/user-attachments/assets/d0f44eeb-6676-48ad-923f-00c529bbc1b4" />
+<img width="800" alt="Genius-GM6000-02" src="https://github.com/user-attachments/assets/8fc7b173-45ce-4c9c-8a33-6d75d3640d18" />
 
 
 The goal of this project is simple:
