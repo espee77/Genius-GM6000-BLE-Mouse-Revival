@@ -11,6 +11,7 @@ Preserve the original look, mechanics, and feel of a vintage ball mouse while re
 
 <img width="800" alt="Genius-GM6000 conversion" src="https://github.com/user-attachments/assets/e20515aa-5458-4d16-acf4-d4d742eae415" />
 
+*If this project helps someone learn something, revive a piece of old hardware, or even build a better version, then it’s already a success. Contributions, suggestions, forks, and improvements are very welcome — I’m still learning electronics myself, so this is very much a “build, experiment, and see what happens” kind of project, and I’m sure there’s plenty of room to make it even better ;)*
 
 **Project Goals**
 
@@ -56,10 +57,6 @@ My own electronics, hardware, and software skills are (very) limited, so I decid
 - optimize the electronics
 - improve the firmware
 - create alternative PCB revisions
-
-*If this project helps someone learn something, restore old hardware, or create an even better version, then it has succeeded.*
-
-_Contributions,suggestions, forks, and improvements are very welcome!_
 
 
 **Current Status**
