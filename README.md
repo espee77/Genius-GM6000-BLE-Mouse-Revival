@@ -67,7 +67,7 @@ _Contributions,suggestions, forks, and improvements are always welcome._
 
 **Disclaimers**
 
-- The Genius GM-6 mouse is slightly different (encoder positions and contact roller size & not slide button on the back). I plan to release the GM-6 data in the furture.
+- The Genius GM-6 mouse is slightly different (encoder positions, contact roller size & not slide button on the back). I plan to release the GM-6 data in the furture.
 - This is an experimental hobby project.
 - Use the provided files and information at your own risk.
 
