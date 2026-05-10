@@ -1,6 +1,6 @@
 **Restoring a Classic: Genius GM-6000 Wireless BLE Conversion**
 
-This project is an open-source hardware and software conversion for the classic Genius GM-6000 ball mouse.
+This project is an open-source hardware and software conversion for the classic [Genius GM-6000](http://www.tcocd.de/Pictures/Peripheral/Genius/Genius.shtml) ball mouse.
 
 <img width="800" alt="Genius-GM6000" src="https://github.com/user-attachments/assets/d0f44eeb-6676-48ad-923f-00c529bbc1b4" />
 
