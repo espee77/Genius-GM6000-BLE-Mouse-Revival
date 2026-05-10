@@ -6,13 +6,14 @@ This project is an open-source hardware and software conversion for the classic 
 <img width="800" alt="Genius-GM6000-01" src="https://github.com/user-attachments/assets/d0f44eeb-6676-48ad-923f-00c529bbc1b4" />
 
 **The goal of this project is simple**
-Preserve the original look, mechanics, and feel of a vintage ball mouse while replacing the obsolete electronics with a modern wireless Bluetooth Low Energy (BLE) system.
 
-Instead of installing a modern optical sensor, this project keeps the original mechanical ball encoder system intact. The original encoder wheels are reused and read by a newly designed infrared optical detection system based on IR LEDs and phototransistors. A custom PCB built around the Seeed Studio XIAO nRF52840 Sense provides wireless BLE HID mouse functionality, LiPo battery support, and modern connectivity.
+Preserve the original look, mechanics, and feel of a vintage ball mouse while replacing the obsolete electronics with a modern wireless Bluetooth Low Energy (BLE) system. Instead of installing a modern optical sensor, this project keeps the original mechanical ball encoder system intact. The original encoder wheels are reused and read by a newly designed infrared optical detection system based on IR LEDs and phototransistors. A custom PCB built around the *Seeed Studio XIAO nRF52840 Sense* provides wireless BLE HID mouse functionality, LiPo battery support, and modern connectivity.
 
 <img width="800" alt="Genius-GM6000-02" src="https://github.com/user-attachments/assets/8fc7b173-45ce-4c9c-8a33-6d75d3640d18" />
 
+
 **Project Goals**
+
 - Preserve the original external appearance of the mouse
 - Reuse the original ball and encoder wheel mechanics
 - Replace the original PCB with a modern custom design
@@ -22,6 +23,7 @@ Instead of installing a modern optical sensor, this project keeps the original m
 - Fully open-source the hardware and firmware
 
 **Features**
+
 - Custom KiCad PCB design
 - Bluetooth Low Energy (BLE) mouse functionality
 - Rechargeable LiPo battery support
@@ -32,7 +34,9 @@ Instead of installing a modern optical sensor, this project keeps the original m
 - Compact internal layout designed to fit inside the original shell
 - Open hardware and open firmware approach
 
-**This repository will contain:**
+
+**This repository will contain**
+
 - Complete KiCad project files
 - PCB schematics
 - PCB layout files
@@ -42,7 +46,9 @@ Instead of installing a modern optical sensor, this project keeps the original m
 - Build notes and assembly documentation
 - Photos and test results
 
+
 **Why Open Source?**
+
 This project was created mainly for fun, learning, and preservation of vintage hardware.
 My own electronics, hardware, and software skills are limited, so I decided to make the entire project public so others can:
 
@@ -55,13 +61,14 @@ My own electronics, hardware, and software skills are limited, so I decided to m
 
 If this project helps someone learn something, restore old hardware, or create an even better version, then it has succeeded.
 
-_Contributions, suggestions, forks, and improvements are always welcome._
+_Contributions,suggestions, forks, and improvements are always welcome._
+
 
 **Current Status**
-PCB designed
-Prototype PCB ordered
-Mechanical integration in progress
-Firmware development ongoing
+
+- PCB designed
+- Prototype PCB ordered
+- Firmware development to be started
 
 **Disclaimer**
 
