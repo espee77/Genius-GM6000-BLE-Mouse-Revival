@@ -57,9 +57,9 @@ My own electronics, hardware, and software skills are (very) limited, so I decid
 - improve the firmware
 - create alternative PCB revisions
 
-If this project helps someone learn something, restore old hardware, or create an even better version, then it has succeeded.
+*If this project helps someone learn something, restore old hardware, or create an even better version, then it has succeeded.*
 
-_Contributions,suggestions, forks, and improvements are always welcome._
+_Contributions,suggestions, forks, and improvements are very welcome!_
 
 
 **Current Status**
@@ -74,8 +74,7 @@ _Contributions,suggestions, forks, and improvements are always welcome._
 - The Genius GM-6 mouse is slightly different (encoder positions, contact roller size & not slide button on the back). I plan to release the GM-6 data in the furture.
 - This is an experimental hobby project.
 - Use the provided files and information at your own risk.
-
-LiPo batteries and electronic modifications should always be handled carefully and responsibly.
+- LiPo batteries and electronic modifications should always be handled carefully and responsibly.
 
 **Acknowledgements**
 
