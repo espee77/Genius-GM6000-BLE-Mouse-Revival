@@ -17,7 +17,6 @@ At the heart of the conversion is a custom PCB based on the **Seeed Studio XIAO 
 
 If this project inspires someone to restore vintage hardware, learn electronics, or build an even better version, then it has already achieved its goal. Contributions, suggestions, forks, and improvements are always welcome.
 
----
 
 # Project Goals
 
@@ -28,7 +27,6 @@ If this project inspires someone to restore vintage hardware, learn electronics,
 * Integrate a rechargeable Li-Po battery
 * Keep both hardware and firmware fully open source
 
----
 
 # Features
 
