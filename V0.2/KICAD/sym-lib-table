@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Seeed_XIAO_nRF52840") (type "KiCad") (uri "L:/Sander/Hobby/Genius GM-6 project/KiCad/Seeed XIAO nRF52840") (options "") (descr ""))
+)
