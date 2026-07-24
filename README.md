@@ -28,6 +28,8 @@ If this project inspires someone to restore vintage hardware, learn electronics,
 * Keep both hardware and firmware fully open source
 
 
+<img width="800" src="https://github.com/user-attachments/assets/5d203b25-8db4-4447-b0a6-a5922fd95e02" />
+
 # Features
 
 ## Mouse
@@ -98,17 +100,16 @@ Contributions are always welcome, whether they involve hardware improvements, fi
 * Battery monitoring implemented
 * Automatic sleep and power management
 * Prototype extensively tested
-* Bluetooth signal strength is still being optimized
+* Bluetooth signal is optimized
 
 ---
 
 # Disclaimers
 
-* The Genius GM-6 differs slightly from the GM-6000 (encoder positions, contact roller size and rear switch). Support for the GM-6 may be added in the future.
 * This is an experimental hobby project.
 * Use the provided files and information at your own risk.
-* Li-Po batteries and electronic modifications should always be handled carefully and responsibly.
-
+* Li-Po batteries and electronic modifications can be hazardous if handled improperly. Always follow appropriate safety precautions and use this project at your own risk.
+* The Genius GM-6 differs slightly from the GM-6000 (encoder positions, contact roller size and rear switch). 
 ---
 
 # Acknowledgements
