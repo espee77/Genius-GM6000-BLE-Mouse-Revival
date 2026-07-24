@@ -1,4 +1,4 @@
-# Restoring a Classic: Genius GM-6000 Wireless BLE / Airmouse conversion
+# Restoring a Classic: Genius GM-6000 Wireless BLE / Wired USB / Airmouse conversion
 
 This project is an open-source hardware and firmware conversion for the classic Genius GM-6000 mechanical ball mouse.
 
