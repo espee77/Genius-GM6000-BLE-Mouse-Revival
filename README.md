@@ -20,7 +20,7 @@ The goal of this project is to preserve the look, feel, and mechanics of the ori
 
 Instead of replacing the original ball mechanism with a modern optical sensor, this project preserves the original encoder wheels and tracking mechanics. A custom infrared optical detection system using IR LEDs and phototransistors reads the original quadrature encoders, maintaining the unique feel and behavior of the original mouse.
 
-At the heart of the conversion is a custom PCB based on the **Seeed Studio XIAO nRF52840 Sense**, providing Bluetooth LE connectivity, rechargeable Li-Po battery support, intelligent power management, and modern firmware—all while fitting completely inside the original mouse shell.
+At the heart of the conversion is a custom PCB based on the [**Seeed Studio XIAO nRF52840 Sense**](https://wiki.seeedstudio.com/XIAO_BLE/), providing Bluetooth LE connectivity, rechargeable Li-Po battery support, intelligent power management, and modern firmware—all while fitting completely inside the original mouse shell.
 
 <img width="100%" alt="Genius-GM6000 conversion" src="https://github.com/user-attachments/assets/e20515aa-5458-4d16-acf4-d4d742eae415" />
 
