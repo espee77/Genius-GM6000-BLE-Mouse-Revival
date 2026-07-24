@@ -1,8 +1,16 @@
 # Restoring a Classic: Genius GM-6000 Wireless BLE / Airmouse conversion
 
-This project is an open-source hardware and firmware conversion for the classic [Genius GM-6000](http://www.tcocd.de/Pictures/Peripheral/Genius/Genius.shtml) mechanical ball mouse.
+This project is an open-source hardware and firmware conversion for the classic Genius GM-6000 mechanical ball mouse.
 
 <img width="100%" src="https://github.com/user-attachments/assets/e5c73823-e07e-4519-96ad-092ace81aa6d" />
+
+## History
+
+Introduced in the late 1980s, the Genius GM-6000 was one of the flagship serial mice from [KYE Systems](https://www.geniusnet.com/en) under its Genius brand. At a time when the computer mouse was becoming an essential PC peripheral, the [Genius GM-6000](http://www.tcocd.de/Pictures/Peripheral/Genius/Genius.shtml) stood out with its robust optomechanical design, dynamic resolution technology, and support for both Microsoft and Mouse Systems serial protocols. Bundled with graphics software including Menu Maker and Dr. Halo/Dr. Genius, it was marketed as a premium mouse for both business and graphics applications.
+
+By 1989, Genius advertisements described the company as "the largest selling mouse in Europe," with the GM-6000 featured prominently in its international marketing campaigns. Contemporary reviews also praised the mouse for its accuracy, compatibility, and comprehensive software bundle.
+
+More than three decades later, the GM-6000 is still appreciated by collectors and retro-computing enthusiasts for its solid construction and durable mechanical tracking system. This project preserves those original mechanics while replacing the obsolete electronics with modern Bluetooth Low Energy technology, a rechargeable battery, and optional air-mouse functionality.
 
 ## The Goal
 
