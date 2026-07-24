@@ -77,6 +77,7 @@ If this project inspires someone to restore vintage hardware, learn electronics,
 * PCB layout
 * Firmware source code
 * 3D CAD files
+* Pictures with assembly notes
 
 
 ---
@@ -93,6 +94,7 @@ Contributions are always welcome, whether they involve hardware improvements, fi
 
 # Current Status
 
+* TESTED AND WORKING GREAT -> V1.0 RELEASED!
 * Second PCB revision completed
 * Stable BLE HID firmware
 * Ball Mouse mode fully operational
