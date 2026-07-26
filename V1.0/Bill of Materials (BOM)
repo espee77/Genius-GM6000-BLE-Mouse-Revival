@@ -1,0 +1,67 @@
+# Bill of Materials (BOM)
+
+## Main Components
+
+| Quantity | Component             | Part Number / Value              | Description                                                                             |
+| -------: | --------------------- | -------------------------------- | --------------------------------------------------------------------------------------- |
+|        1 | Microcontroller board | Seeed Studio XIAO nRF52840 Sense | Main controller with Bluetooth Low Energy, USB HID, battery charging and a built-in IMU |
+|        1 | Custom PCB            | Genius GM-6000 Revival PCB       | Custom PCB designed specifically for the GM-6000 conversion                             |
+|        1 | Li-Po battery         | 3.7 V, approximately 800 mAh     | Rechargeable battery; the prototype uses a Cardo Scala Rider G4 battery                 |
+|        1 | Power switch          | SPDT slide switch                | Main battery power switch                                                               |
+|        1 | Status LED            | Red/blue dual LED                | Indicates Bluetooth and battery status                                                  |
+|        1 | N-channel MOSFET      | BS170                            | Controls power to the infrared LEDs                                                     |
+|        1 | Battery connector     | 2-pin connector                  | Connects the Li-Po battery to the PCB                                                   |
+|        1 | USB-C cable           | USB data and charging cable      | Used for charging, wired USB mouse operation and firmware uploads                       |
+
+## Infrared Tracking System
+
+| Quantity | Component                | Part Number / Value | Description                                     |
+| -------: | ------------------------ | ------------------- | ----------------------------------------------- |
+|        4 | Infrared LED             | IR928-6C-F          | Illuminates the original encoder wheels         |
+|        4 | Infrared phototransistor | PT928-6C-F          | Detects movement of the original encoder wheels |
+
+## Resistors
+
+| Quantity | Value  | Description                                        |
+| -------: | ------ | -------------------------------------------------- |
+|        4 | 330 Ω  | Infrared LED current-limiting resistors            |
+|        4 | 4.7 kΩ | Phototransistor pull-up resistors                  |
+|        2 | 1 kΩ   | Red and blue status LED current-limiting resistors |
+|        1 | 100 kΩ | MOSFET gate pull-down resistor                     |
+|        1 | 220 Ω  | MOSFET gate series resistor                        |
+
+## Capacitors
+
+| Quantity | Value  | Description                       |
+| -------: | ------ | --------------------------------- |
+|        1 | 100 nF | Power-supply decoupling capacitor |
+
+## Original GM-6000 Parts Reused
+
+The following parts are reused from the original Genius GM-6000 (not GM-6):
+
+* Upper and lower enclosure + buttons
+* X-axis encoder wheel and roller
+* Y-axis encoder wheel and roller
+* Mouse ball
+* Ball retaining ring
+* Original screws
+
+## Additional Materials
+
+|    Quantity | Item                   | Description                              |
+| ----------: | ---------------------- | ---------------------------------------- |
+| As required | Thin insulated wire    | Internal wiring and connections          |
+| As required | Double-sided foam tape | Secures the battery inside the enclosure |
+| As required | Solder                 | Used for PCB and wire assembly           |
+
+## Tools Required
+
+* Fine-tip soldering iron
+* Solder and flux
+* Flush cutters
+* Precision tweezers
+* Wire stripper
+* Small Phillips screwdriver
+* Multimeter
+* USB-C data cable
