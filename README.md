@@ -176,6 +176,7 @@ Contributions are always welcome, whether they involve hardware improvements, fi
 
 # Acknowledgements
 
+This project is an independent, community-created restoration effort. The CAD models were created by measuring an original Genius GM-6000 mouse and are not based on or derived from original manufacturer CAD data. "Genius" is a trademark of its respective owner and is used solely to identify the compatible product.
 Special thanks to the retro hardware, maker, and open-source communities whose shared knowledge, documentation, and projects made this conversion possible.
 
 <img width="100%" src="https://github.com/user-attachments/assets/5d203b25-8db4-4447-b0a6-a5922fd95e02" />
