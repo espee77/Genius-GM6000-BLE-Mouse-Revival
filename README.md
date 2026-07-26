@@ -128,6 +128,7 @@ Battery level is continuously monitored and reported through the Bluetooth Batte
 
 # Repository Contents
 
+* [Bill of material](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/blob/main/V1.0/Bill%20of%20Materials%20(BOM))
 * [KiCad 10 project files](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/KICAD)
 * [Schematics](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/Schematic)
 * [Datasheets](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/Datasheets)
