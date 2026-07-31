@@ -85,13 +85,6 @@ If this project inspires someone to restore vintage hardware, learn electronics,
 * Preserves the original buttons and tracking hardware
 * Compact design that fits completely inside the original enclosure
 
-## Factory Reset
-
-If you experience Bluetooth pairing or connection problems, the firmware includes a built-in **Factory Reset** function.
-
-With the mouse powered off, press and hold the **left**, **middle**, and **right** mouse buttons simultaneously while turning the mouse on. Keep all three buttons pressed for approximately **5 seconds** until the status LEDs indicate that the reset has started. The mouse will erase all stored Bluetooth pairing information, saved settings, usage statistics, battery statistics, and internal storage before automatically rebooting.
-
-After a Factory Reset, remove the mouse from your computer's Bluetooth device list (if previously paired) and pair it again as a new device.
 ---
 
 # Using the Mouse
@@ -131,6 +124,14 @@ The mouse automatically wakes from movement, IMU motion (during Light Sleep), or
 ## Battery
 
 Battery level is continuously monitored and reported through the Bluetooth Battery Service, allowing supported operating systems to display the remaining battery percentage.
+
+## Factory Reset
+
+If you experience Bluetooth pairing or connection problems, the firmware includes a built-in **Factory Reset** function.
+
+With the mouse powered off, press and hold the **left**, **middle**, and **right** mouse buttons simultaneously while turning the mouse on. Keep all three buttons pressed for approximately **5 seconds** until the status LEDs indicate that the reset has started. The mouse will erase all stored Bluetooth pairing information, saved settings, usage statistics, battery statistics, and internal storage before automatically rebooting.
+
+After a Factory Reset, remove the mouse from your computer's Bluetooth device list (if previously paired) and pair it again as a new device.
 
 ---
 
