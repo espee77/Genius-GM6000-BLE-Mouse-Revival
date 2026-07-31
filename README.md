@@ -142,7 +142,7 @@ After a Factory Reset, remove the mouse from your computer's Bluetooth device li
 * [KiCad 10 project files](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/KICAD)
 * [Schematics](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/Schematic)
 * [Datasheets](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/Datasheets)
-* [Firmware source code](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/Firmware)
+* [Firmware source code](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.01/Firmware)
 * [JLCPCB zip file for board ordering](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/JLCPCB)
 * [3D CAD files](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/3D%20files/Step214)
 * [Pictures with assembly notes](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0/Pictures%20with%20assembly%20notes)
