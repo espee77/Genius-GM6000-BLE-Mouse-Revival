@@ -181,7 +181,7 @@ Contributions are always welcome, whether they involve hardware improvements, fi
 * This is an experimental hobby project.
 * Use the provided files and information entirely at your own risk.
 * Li-Po batteries and electronic modifications can be hazardous if handled improperly. Always follow appropriate safety precautions.
-* The Genius GM-6 differs slightly from the GM-6000 (encoder positions, contact roller size, and rear switch).
+* This hardware will not fit the Genius GM-6 which differs slightly from the GM-6000 (encoder positions, contact roller size, and rear switch).
 
 ---
 <img width="100%" alt="Genius-GM6000" src="https://github.com/user-attachments/assets/28d46d89-9d56-49e7-96e0-43bb02862431" />
