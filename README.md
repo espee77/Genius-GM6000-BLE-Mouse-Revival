@@ -153,15 +153,18 @@ Contributions are always welcome, whether they involve hardware improvements, fi
 
 # Current Status
 
-* [TESTED AND WORKING GREAT → V1.0 RELEASED!](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.0)
-* Second PCB revision completed
-* Stable BLE HID firmware
-* Ball Mouse mode fully operational
-* Air Mouse mode implemented
-* Battery monitoring implemented
-* Automatic sleep and power management
-* Extensively tested in daily use
-* Optimized Bluetooth performance
+- **[V1.0 – Stable Release](https://github.com/espee77/Genius-GM6000-BLE-Mouse-Revival/tree/main/V1.01)**
+- Second-generation custom PCB completed
+- Stable Bluetooth Low Energy (BLE) HID firmware
+- Reliable deep-sleep wake and automatic BLE reconnection
+- Ball Mouse mode fully functional
+- Air Mouse mode fully functional
+- USB wired mouse mode implemented
+- Battery monitoring and charging support
+- Automatic power management with multi-stage sleep modes
+- Built-in Factory Reset and diagnostic tools
+- Extensively tested in daily use
+- Optimized Bluetooth performance, responsiveness, and power consumption
 
 ---
 
