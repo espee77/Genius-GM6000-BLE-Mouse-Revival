@@ -1,0 +1,20 @@
+## Version 1.0.1
+
+### Fixed
+- Fixed a deep-sleep wake issue that could prevent the mouse from functioning correctly after reconnecting over Bluetooth Low Energy (BLE).
+- Improved System OFF wake handling by correctly restoring button and input states after waking from deep sleep.
+- Improved overall wake-up reliability and BLE reconnection stability.
+
+### Added
+- Added a three-button **Factory Reset** feature.
+- Factory Reset clears:
+  - BLE bonding information
+  - LittleFS / InternalFS
+  - Saved settings
+  - Usage statistics
+  - Battery statistics
+- The mouse automatically reboots after the reset is complete.
+
+### Notes
+- Firmware, bootloader and SoftDevice are preserved during a Factory Reset.
+- After performing a Factory Reset, remove the mouse from the host's Bluetooth device list and pair it again.
